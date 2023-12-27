@@ -75,7 +75,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tayyab656/tayyab656/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
